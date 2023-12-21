@@ -43,16 +43,6 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<h3>Where to find me?</h3>
-<a href="https://www.instagram.com/nykk.xx/">
-  <img align="left" alt="Nik's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://discord.gg/revert">
-  <img align="left" alt="Nik's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://github.com/nykkpvt">
-  <img align="left" alt="Nik's Git" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
-</a>
 <br>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/nykpvt"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="imtiyazCode" /></a></p><br><br><br>
