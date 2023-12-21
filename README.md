@@ -11,9 +11,6 @@
  <p align="center"> 
 
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotThERealALPHA&show_icons=true&layout=compact&hide_border=true&theme=dark" />
-
-<h3>Contribution Graph</h3>
- <p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=NotThERealALPHA&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Nik" /> </p>
   
 
   
