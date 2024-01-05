@@ -45,4 +45,4 @@
 
 <br>
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/nykpvt"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="imtiyazCode" /></a></p><br><br><br>
+<p><a href="https://www.buymeacoffee.com/nyk.xx"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="imtiyazCode" /></a></p><br><br><br>
